@@ -2,7 +2,9 @@
 This folder contains the scripts used in the following paper:
 
 **Distributed Bayesian Posterior Sampling via Moment Sharing**
+
 Minjie Xu, Balaji Lakshminarayanan, Yee Whye Teh, Jun Zhu and Bo Zhang
+
 *Advances in Neural Information Processing Systems (NIPS), 2014.*
 
 [Link to PDF] http://papers.nips.cc/paper/5596-distributed-bayesian-posterior-sampling-via-moment-sharing.pdf
