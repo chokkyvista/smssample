@@ -1,5 +1,5 @@
 # smssample
-This folder contains the scripts used in the following paper:
+This repo contains the scripts used in the following paper:
 
 **Distributed Bayesian Posterior Sampling via Moment Sharing**
 
@@ -7,15 +7,18 @@ Minjie Xu, Balaji Lakshminarayanan, Yee Whye Teh, Jun Zhu and Bo Zhang
 
 *Advances in Neural Information Processing Systems (NIPS), 2014.*
 
-[Link to PDF] http://papers.nips.cc/paper/5596-distributed-bayesian-posterior-sampling-via-moment-sharing.pdf
+[Link to PDF](http://papers.nips.cc/paper/5596-distributed-bayesian-posterior-sampling-via-moment-sharing.pdf)
 
 Please cite the above paper if you use this code.
+
+If you have any questions/comments/suggestions, please contact Minjie ([chokkyvista06@gmail.com](mailto:chokkyvista06@gmail.com)) or Balaji 
+([balaji@gatsby.ucl.ac.uk](mailto:balaji@gatsby.ucl.ac.uk)).
 
 Code released under MIT license (see COPYING for more info).
 
 Copyright (c) 2015, Minjie Xu and Balaji Lakshminarayanan
 
-Note: spikeslab_gibbs.m has been modified from Michalis Titsias's paired Gibbs sampler for Bayesian sparse linear regression with spike and slab prior. 
+*Note*: spikeslab_gibbs.m has been modified from Michalis Titsias's paired Gibbs sampler for Bayesian sparse linear regression with spike and slab prior. 
 
 ----------------------------------------------------------------------------
 
